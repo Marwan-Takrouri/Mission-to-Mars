@@ -45,10 +45,11 @@ Then we Use the for loop to complete the following actions
  4-use browser.back() to navigate back to the beginning to get the next hemisphere image
 
 The out put was as below images :
-
-
-    
- ![image](https://user-images.githubusercontent.com/89116297/160252601-405e92a8-aae6-4470-82a3-918d7a9ece12.png)
+![image](https://user-images.githubusercontent.com/89116297/160252987-04fa86e4-e1fd-47c6-8af0-a740cdbbd4f2.png)
+![image](https://user-images.githubusercontent.com/89116297/160253002-74d7f301-70d6-4fbc-b1dc-0082e90111b4.png)
+![image](https://user-images.githubusercontent.com/89116297/160253005-27da64ac-c737-4c53-b979-0578f88db445.png)
+![image](https://user-images.githubusercontent.com/89116297/160253016-2d175c1e-9523-48c9-b2c4-895e4fd895e8.png)
+![image](https://user-images.githubusercontent.com/89116297/160252601-405e92a8-aae6-4470-82a3-918d7a9ece12.png)
  
 
 
